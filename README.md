@@ -83,7 +83,7 @@ delete
 │   ├── constants.py       # Application constants
 │   └── helpers.py         # Helper functions
 ├── requirements.txt       # Python dependencies
-└── README.md             # This file
+└── README.md            
 ```
 
 ## Database Schema
